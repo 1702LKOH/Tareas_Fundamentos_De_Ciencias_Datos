@@ -1,6 +1,4 @@
-# Fundamentos de Ciencias de Datos
-
-**Curso:** Programa de Ciencia de Datos  
+# Programa de Ciencia de Datos  
 **Estudiante:** Frenny Montezuma Castillo 
 **Fecha:** 2026
 
